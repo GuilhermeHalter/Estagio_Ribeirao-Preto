@@ -12,12 +12,12 @@ IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua p
 
 Ao final do processamento, qual será o valor da variável SOMA?
 
-4) Descubra a lógica e complete o próximo elemento:
-a) 1, 3, 5, 7, ___
-b) 2, 4, 8, 16, 32, 64, ____
-c) 0, 1, 4, 9, 16, 25, 36, ____
-d) 4, 16, 36, 64, ____
-e) 1, 1, 2, 3, 5, 8, ____
+4) Descubra a lógica e complete o próximo elemento:<br>
+a) 1, 3, 5, 7, ___<br>
+b) 2, 4, 8, 16, 32, 64, ____<br>
+c) 0, 1, 4, 9, 16, 25, 36, ____<br>
+d) 4, 16, 36, 64, ____<br>
+e) 1, 1, 2, 3, 5, 8, ____<br>
 f) 2,10, 12, 16, 17, 18, 19, ____
 
 
@@ -30,4 +30,11 @@ f) 2,10, 12, 16, 17, 18, 19, ____
 1) Resposta no Exercicio01 -> Fibonacci.java
 2) Resposta no Exercicio02 -> VerificarString.java
 3) Resposta no Exercicio03 -> ValorSoma.java   /  SOMA = 55
-4) 
+4) a) 1, 3, 5, 7, 9, 11, 13<br>
+b) 2, 4, 8, 16, 32, 64, 128, 256, 512<br>
+c) 0, 1, 4, 9, 16, 25, 36, 49, 64, 81 <br>
+d) 4, 16, 36, 64, 100, 144, 196<br>
+e) 1, 1, 2, 3, 5, 8, 13, 21, 34<br>
+f) 2,10, 12, 16, 17, 18, 19, 20, 23, 25
+
+5)Ligue o primeiro interruptor por 10 minutos, depois desligue-o e ligue o segundo; ao visitar as salas, a lâmpada acesa é do segundo interruptor, a quente e desligada é do primeiro, e a fria e desligada é do terceiro.
