@@ -27,6 +27,7 @@ f) 2,10, 12, 16, 17, 18, 19, ____
 
 ## Respostas
 
-1) Respondida no Exercicio1 -> Fibonacci.java
-2) Respondida no Exercicio2 -> VerificarString.java
-3) 
+1) Resposta no Exercicio01 -> Fibonacci.java
+2) Resposta no Exercicio02 -> VerificarString.java
+3) Resposta no Exercicio03 -> ValorSoma.java   /  SOMA = 55
+4) 
