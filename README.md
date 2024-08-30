@@ -37,4 +37,4 @@ d) 4, 16, 36, 64, 100, 144, 196<br>
 e) 1, 1, 2, 3, 5, 8, 13, 21, 34<br>
 f) 2,10, 12, 16, 17, 18, 19, 20, 23, 25
 
-5)Ligue o primeiro interruptor por 10 minutos, depois desligue-o e ligue o segundo; ao visitar as salas, a lâmpada acesa é do segundo interruptor, a quente e desligada é do primeiro, e a fria e desligada é do terceiro.
+5) Ligue o primeiro interruptor por 10 minutos, depois desligue-o e ligue o segundo; ao visitar as salas, a lâmpada acesa é do segundo interruptor, a quente e desligada é do primeiro, e a fria e desligada é do terceiro.
